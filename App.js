@@ -668,6 +668,26 @@ else
            
 
 
+                 
+        <div className="Specific">
+           <div className="NewEarn">Earn up to $25 worth of crypto
+           <p className="discover"> Discover how specific 
+           cryptocurrencies work —
+             and get a bit of each crypto 
+             to try out for yourself.</p>
+           <div>
+             <button className="startButton" > Start Earning</button>
+           </div></div>
+
+           <div className="spacedivImg">
+             <img src="https://assets.coinbase.com/assets/earn-upsell-desktop.dad0f473399e16fa8c176a9599c883ea.webp" className="spaceImg"/>
+           </div>
+
+               </div>
+           
+   
+
+
 </div>
 
 
