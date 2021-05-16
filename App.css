@@ -1,0 +1,41 @@
+.menu{height: 66px; border-bottom: 1px solid lightgrey;}
+
+.title{color: rgb(0, 132, 255); font-family: sans-serif; 
+  font-size: 27px; float: left; 
+            margin: 0px 50px 0px 70px;
+             font-weight: bolder; line-height: 70px;
+        width: 100px; height: 10px;}
+
+.nav div{float: left; font-size: 14.5px; 
+  margin-right: 50px; margin-top: 30px; 
+  font-family: sans-serif; color: black;
+   text-decoration: none;
+   background-color: white; 
+   height: 33px; font-weight: 550;
+  font-stretch: extra-expanded; }
+
+.list{margin-left: 150px;}
+.list5{margin-right: 150px;}
+
+ .nav div:hover {border-bottom: 5px blue solid; 
+  margin-bottom: 0px;
+}
+
+.signAndSearch{float: right; margin-top: 0;
+height: 45px; margin: 10px 30px 0px 0px; 
+width: 16%;}
+
+.signIn{float: left; margin-top: 20px; font-size: 15px;
+  margin-left: 30px; font-weight: 500;}
+
+  .signIn:hover{color: rgb(0, 81, 255);}
+
+button.search{float:left; 
+  height: 80%; width: 45%; border: none;
+  background-color: rgb(0, 81, 255);
+color: white; margin-top: 10px; 
+padding: 10px; font-size: 14px;
+border-radius: 5px; margin-left: 15px;
+}
+
+button.search:hover{background-color:blue;}
