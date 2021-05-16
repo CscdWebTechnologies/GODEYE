@@ -39,3 +39,197 @@ border-radius: 5px; margin-left: 15px;
 }
 
 button.search:hover{background-color:blue;}
+
+.Individuals{height: 200px;  background-color: white;
+  float:left; z-index: 3; position: absolute;
+  width:100%; color: black;
+box-shadow: 0px 3px 20px 0px lightgrey;}
+
+  .Individuals a:hover {color: rgb(0, 81, 255);
+  text-decoration: none;}
+
+  .Individuals a {text-decoration: none;}
+
+  .Learn1{
+    float: left; margin: 20px 10px 10px 400px;
+     background-color: white; font-size: 18px; font-weight: bold;
+     font-family: sans-serif; color: black
+
+  }
+
+  
+.Company1 a, .Company2 a, .Learn1 a{color: black; 
+  font-weight: 600; 
+font-size: 17px;}
+
+  .TiTu {margin-top: 20px; color: black}
+
+
+
+  .Learn2{
+    float: right; margin: 20px 400px 10px 50px; 
+     background-color: white;  width: 25%;
+  }
+
+
+
+
+  .Company1{
+    float: left; margin: 20px 10px 10px 320px;
+     background-color: white; font-size: 19px; 
+     font-weight: bold;
+     font-family: sans-serif; color: black
+
+  }
+
+
+ 
+  .Company2{
+    float: left; margin: 20px 10px 10px 100px;
+     background-color: white; font-size: 19px; 
+     font-weight: bold;
+     font-family: sans-serif; color: black
+
+  }
+
+  .Company3{
+    float: right; margin: 20px 350px 10px 50px; 
+     background-color: white;  width: 20%;
+  }
+
+
+
+.other{font-size: 18px; font-weight: bold;
+  margin-top: 20px; margin-bottom: 20px;
+  font-family: sans-serif;}
+
+.comment{font-size: 16px; margin-bottom:10px; font-stretch: expanded;
+  font-family: sans-serif; font-weight: 500; line-height: 20px;}
+
+  .SeeMore a{color: blue; font-weight: 600}
+
+  .SeeMore a:hover{color: rgb(38, 0, 255); }
+
+
+  div span{margin-right: 10px;}
+
+
+
+
+  .IndividualsR{height: 280px; background-color: white;
+    float:left; z-index: 3; position: absolute;
+    width:100%; color: black; 
+    box-shadow: 0px 3px 20px 0px lightgrey;}
+  
+    .IndividualsR a:hover {color: rgb(0, 81, 255);
+    text-decoration: none;}
+  
+    .IndividualsR a {text-decoration: none;}
+
+
+
+    .IndividualsB{height: 200px; background-color: white;
+      float:left; z-index: 3; position: absolute;
+      width:100%; color: black; 
+      box-shadow: 0px 3px 20px 0px lightgrey;}
+    
+      .IndividualsB a:hover {color: rgb(0, 81, 255);
+      text-decoration: none;}
+    
+      .IndividualsB a {text-decoration: none;}
+
+
+      .IndividualsD{height: 250px; background-color: white;
+        float:left; z-index: 3; position: absolute;
+        width:100%; color: black; 
+        box-shadow: 0px 3px 20px 0px lightgrey;}
+      
+        .IndividualsD a:hover {color: rgb(0, 81, 255);
+        text-decoration: none;}
+      
+        .IndividualsD a {text-decoration: none;}
+
+
+
+.Indiv1Group1{margin: 30px 30px 10px 150px;
+float: left; width: 300px;}
+
+.firstIndiv{float: left; margin-bottom: 20px;}
+
+.secondIndiv{float: right; margin-bottom: 20px;}
+
+.secondIndivNew{float: right; }
+
+.Indiv1Group2{margin: 30px 10px 10px 5px; 
+  float: left; width:350px;} 
+
+.IndivGroup3{margin: 30px 170px 10px 10px; 
+float: right; width: 320px;} 
+
+.ImageIndiv{height: 40px; width: 40px; 
+  border-radius: 30px; 
+  margin-top: 10px; 
+  margin-left: 10px; float: left; 
+box-shadow: 0px 0px 5px 1px lightgrey;}
+
+
+.IndivBAS{float: left; margin-left: 7px; margin-top: 10px; 
+}
+
+.IndivBAS a{font-size: 18px; 
+  font-family: sans-serif; margin-left: 5px;
+  font-weight: 400; color: black;} 
+
+.IndivBAScomment{float: left; margin-top: 2px; 
+  margin-left: 7px;
+}
+
+.IndivBASEarncomment{float: right; margin-top: 2px; 
+  margin-right: 0px; 
+}
+
+.IndivBASEcomment{float: right; margin-top: 2px; 
+  margin-right: 46px; 
+}
+
+.IndivBASWalcomment {float: right; margin-top: 2px; 
+  margin-right: 53px; 
+}
+
+.IndivBASPCcomment{float: left; margin-top: 2px; 
+  margin-left: 7px;
+  
+}
+
+
+.IndivBASDcomment{float: left; margin-top: 2px; 
+  margin-left: 36px;
+  
+}
+
+
+.IndivBAScomment a{font-size: 18px; margin-left: 10px;
+  font-family: sans-serif; color: grey;}
+
+.IndivBAScomment a:hover{color: black;
+text-decoration: none;}
+
+
+.otherIndiv{font-size: 18px; font-weight: bold;
+  margin-top: 20px; margin-bottom: 20px;
+  font-family: sans-serif;}
+
+.commentIndiv{font-size: 16px; 
+  margin-bottom:10px; 
+  font-stretch: expanded;
+  font-family: sans-serif; 
+  font-weight: 500; line-height: 20px;}
+
+
+
+
+
+
+
+
+  
