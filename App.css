@@ -408,7 +408,7 @@ table{float: left; height: 350px; width: 85%; border: 1px solid lightgrey;
      .NewCoinbase{float: left; margin-left: 450px; 
       font-weight: 400; font-size: 18px;
       font-stretch: extra-expanded; color: grey; 
-      margin-top: 20px; margin-bottom: 100px;}
+      margin-top: 20px; }
      
      
     .customHr{border-bottom: 1px solid black; 
@@ -481,6 +481,35 @@ float: left; color: white;
 
 .mo{float: left; margin-left: 200px; 
    margin-top: 60px;}
+
+
+   
+.Add{float: left; margin-left: 200px;
+  height: 200px; width: 1080px;
+ 
+  margin-top: 70px;}
+ 
+ .Advertise{float: left;  height: 200px; width: 210px;
+   background-color: white;}
+
+
+.custhr{border-bottom: 1px solid black;
+  height: 10px; width: 15%;
+     float: left;  margin-top: 35px;}
+
+     
+.Newsource{font-size: 20px; font-weight: 600;
+  height: 30px; width: 300px;
+ float: left; text-align: left; margin-top: 30px;}
+
+ .NewCrytpImg{background-color: blue; 
+   height: 70px; width: 70px; 
+   float: left; margin-left: 50px; }
+
+
+
+
+   
 
 
 
