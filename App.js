@@ -603,6 +603,42 @@ else
 
 
 
+           <div className="Mon">
+
+           <div className="mo">
+              <div className="money">$335B</div>
+              <div className="moneyFor">Quarterly volume traded</div>
+           </div>
+
+
+           <div className="mo">
+             <div className="money">100+</div>
+             <div className="moneyFor">Countries supported</div>
+
+           </div>
+
+
+           <div className="mo">
+             <div className="money">56+M</div>
+             <div className="moneyFor">Verified users</div>
+            </div>
+
+
+
+
+
+
+
+
+
+           </div>
+
+
+            <div className="NewCreate">Get started in a few minutes</div>
+            <div className="NewCoinbase">Coinbase supports a variety of the 
+              most popular digital currencies.</div>
+
+
 
 
 
