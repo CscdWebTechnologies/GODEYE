@@ -327,6 +327,96 @@ table{float: left; height: 350px; width: 85%; border: 1px solid grey;
   .buy:hover{background-color: green;}
   
   .coin{margin-bottom: 40px; font-size: 25px;}
+
+
+  .Earn{ font-weight: 600; font-size: 32px;
+    height: 300px; width: 320px; float: left; margin-left: 100px; margin-top: 100px;
+    }
+    
+    .discover{font-size: 14px; font-weight: 350; font-stretch: expanded;}
+    
+    .startButton{color: white; background-color: rgb(0, 132, 255); height: 50px; 
+    width: 130px; border-radius: 5px;}
+    
+    .startButton:hover{background-color: blue;}
+    
+    .Ampleforth{float: left; height: 520px;
+       width: 550px; 
+    margin-left: 200px;}
+    
+    .Ampdiv{float: left; height: 100px; 
+      width: 550px; margin-bottom: 20px;
+    }
+    
+    .Ampdiv:hover{box-shadow: -3px 3px 15px 0px lightgray; 
+      border-style: outset;
+    border-radius: 15px;  }
+
+    .Ampdiv a{color: black;}
+    
+    .Graph{height: 100px; 
+      width: 230px;  float: left; margin-left: 5px; }
+    
+    .Stellar{ height: 100px; 
+      width: 230px;  float: left; margin-left: 5px; } 
+    
+    .Compound{height: 100px; 
+      width: 230px;  float: left; margin-left: 5px;; }
+    
+    .Amp{ height: 100px; 
+      width: 230px;  float: left; margin-left: 5px;}
+    
+      .forth{width: 60px; margin-left: 5px; 
+      float: left;}
+    
+      .E{width: 150px; margin-left: 15px; float: left; 
+     color: rgb(0, 128, 49);
+        margin-top: 20px; font-weight: 500; font-size: 18px;
+      font-stretch: expanded;}
+    
+    
+    
+    .View a{font-weight: 300; float: left; font-size: 14px;
+        margin-top: 30px; color: blue; 
+        text-decoration: none; }
+    
+        .View a:hover{color: rgb(0, 132, 255);
+        text-decoration: none;}
+    
+    
+    .Ampleforth img{height: 40px; width: 40px;
+       border-radius: 40px 40px; 
+     float: left; margin-top: 10px;}
+    
+    .AmpImg{float: left; height: 60px; 
+      width: 60px; }
+    
+    
+    .Create{float: left; margin-left: 300px; 
+      font-weight: bold; font-size: 40px;
+    margin-top: 80px; font-stretch: extra-expanded;}
+    
+    .NewCreate{float: left; margin-left: 400px; 
+      font-weight: bold; font-size: 45px;
+      margin-top: 50px; font-stretch: extra-expanded;}
+    
+    .Coinbase{float: left; margin-left: 350px; 
+      font-weight: 400; font-size: 18px;
+     font-stretch: extra-expanded; color: grey;
+      margin-top: 20px;}
+    
+     .NewCoinbase{float: left; margin-left: 450px; 
+      font-weight: 400; font-size: 18px;
+      font-stretch: extra-expanded; color: grey; 
+      margin-top: 20px;}
+     
+     
+    .customHr{border-bottom: 1px solid black; 
+      height: 10px; width: 100%;
+     float: left; margin-top: 50px}
+
+
+     
   
 
 
