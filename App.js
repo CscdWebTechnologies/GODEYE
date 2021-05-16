@@ -390,7 +390,7 @@ else
 
                 
 
-        <div className="wrapper">
+ 
 
             <div className="JumpStart">
             <a href=""><div class="bitcoinImg"><img src="data:image/png;base64,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" 
@@ -686,6 +686,150 @@ else
                </div>
            
    
+               <div className="footer">
+           <div className="selectCopyR">
+             <div className="Newtitle">coinbase </div>
+             <form action="" method="GET">
+             <select name="languages"   className="language">
+             <option value="English" selected="selected">English</option>
+             <option value="Deutsch">Deutsch</option>
+             <option value="Espanol-Espana">Espanol-Espana</option>
+             <option value="Espanol-America Latina">Espanol-Ameria Latina</option>
+             <option value="Francais-France">Francais-France</option>
+             <option value="Bahasa Indonesia">Bahasa Indonesia</option>
+             <option value="Italiano">Italiano</option>
+             <option value="Chinese">Chinese</option>
+             <option value="Polski">Polski</option>
+             <option value="Portugues-Brasil">Portugues-Brasil</option>
+             <option value="Portugues-Portugal">Portugues-Portugal</option>
+             <option value="Pytich">Pytich</option>
+             <option value="Turkish">Turkish</option>
+             <option value="Turcke">Turcke</option>
+             </select>
+             </form>
+
+             
+
+             <div className="copyR">© 2021 Coinbase</div>
+             <div className="Blog">Blog • Twitter • Facebook</div>
+
+           </div>
+
+          
+
+        
+
+
+        <div className="comLearn">
+           <div className="companyAgain">
+             <ul>
+             <li className="firstListItem">Company</li>
+             <li><a href="">About</a></li>
+             <li><a href="">Careers</a></li>
+             <li><a href="">Affiliates</a></li>
+             <li><a href="">Blog</a></li>
+             <li><a href="">Press</a></li>
+             <li><a href="">Investors</a></li>
+             <li><a href="">Legal & privacy</a></li>
+             <li><a href="">Cookie policy</a></li>
+             </ul>
+           </div>
+
+
+
+
+           <div className="LearnAgain">
+            <ul>
+             <li className="firstListItem">Learn</li>
+             <li><a href="">Browse crypto prices</a></li>
+             <li><a href="">Crypto basics</a></li>
+             <li><a href="">Tips & tutorials</a></li>
+             <li><a href="">Market updates</a></li>
+             <li><a href="">What is Bitcoin?</a></li>
+             <li><a href="">What is crypto?</a></li>
+             <li><a href="">What is a blockchain?</a></li>
+             <li><a href="">How to set up a crypto wallet</a></li>
+             <li><a href="">How to send crypto</a></li>
+             <li><a href="">Taxes</a></li>
+             </ul>
+            
+           </div>
+
+
+           </div>
+
+
+
+
+
+
+          <div className="IndivBussDev">
+           <div className="IndivAgain">
+           <ul>
+             <li className="firstListItem">Individuals</li>
+             <li><a href="">Buy & sell</a></li>
+             <li><a href="">Earn free crypto</a></li>
+             <li><a href="">Wallet</a></li>
+             <li><a href="">Card</a></li>
+             </ul>
+
+           </div>
+
+
+
+            <div className="BussAgain">
+            <ul>
+             <li className="firstListItem">Businesses</li>
+             <li><a href="">Prime</a></li>
+             <li><a href="">Custody</a></li>
+             <li><a href="">Asset Hub</a></li>
+             <li><a href="">Commerce</a></li>
+             </ul>
+            
+           </div>
+
+
+             <div className="DevAgain">
+            <ul>
+             <li className="firstListItem">Developers</li>
+             <li><a href="">Coinbase Cloud</a></li>
+             <li><a href="">Connect</a></li>
+             <li><a href="">Commerce</a></li>
+             <li><a href="">Pro</a></li>
+             <li><a href="">Bison Trails</a></li>
+             <li><a href="">Rosetta</a></li>
+             <li><a href="">USDC</a></li>
+             </ul>
+            
+           </div>
+
+           </div>
+
+           
+           <div className="SupportAgain">
+            <ul>
+             <li className="firstListItem">Support</li>
+             <li><a href="">Help center</a></li>
+             <li><a href="">Contact us</a></li>
+             <li><a href="">Create account</a></li>
+             <li><a href="">ID verification</a></li>
+             <li><a href="">Account information</a></li>
+             <li><a href="">Payment methods</a></li>
+             <li><a href="">Account access</a></li>
+             <li><a href="">Supported crypto</a></li>
+             <li><a href="">Supported countries</a></li>
+             <li><a href="">Status</a></li>
+             </ul>
+            
+           </div>
+
+ 
+
+
+
+
+
+
 
 
 </div>
